@@ -3,7 +3,7 @@
 <%@page session="true" import="java.util.Vector, ebookshop.Book"%>
 <html>
 <head>
-  <title>E-bookshop V4.00</title>
+  <title>E-bookshop V12.00</title>
   <style type="text/css">
     body {background-color:gray; font-size=10pt;}
     H1 {font-size:20pt;}
